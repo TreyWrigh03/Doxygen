@@ -1,3 +1,12 @@
+/**
+ * @file Officer.cpp
+ * @author Daniel Wright
+ * @date 2023-11-17
+ * @brief all functions for officer calss
+ * 
+ * officer cpp used to mkae the functions used in main
+ */
+
 #include "Officer.h"
 #include <iostream>
 

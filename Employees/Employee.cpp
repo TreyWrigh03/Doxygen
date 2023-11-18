@@ -1,3 +1,12 @@
+/**
+ * @file Employee.cpp
+ * @author Daniel Wright
+ * @date 2023-11-17
+ * @brief functions for employees
+ * 
+ * make functions that are to be used in main
+ */
+
 #include "Employee.h"
 #include <iostream>
 

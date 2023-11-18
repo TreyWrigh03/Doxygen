@@ -1,3 +1,12 @@
+/**
+ * @file main.cpp
+ * @author Daniel Wright
+ * @date 2023-11-17
+ * @brief main.cpp calls functions
+ * 
+ * main.cpp file used to call functions and conects all the classes together and into one big main
+ */
+
 
 #include <iostream>
 #include "Employee.h"

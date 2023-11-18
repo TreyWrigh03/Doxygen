@@ -1,3 +1,12 @@
+/**
+ * @file Supervisor.cpp
+ * @author Daniel Wright
+ * @date 2023-11-17
+ * @brief cpp for supervisor class
+ * 
+ * uses the variables declared in .h to make functions to be used in main 
+ */
+
 #include "Supervisor.h"
 #include <iostream>
 
